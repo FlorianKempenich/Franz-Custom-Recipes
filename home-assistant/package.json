@@ -1,0 +1,13 @@
+{
+  "id": "homeassistant",
+  "name": "HomeAssitant",
+  "version": "1.0.0",
+  "description": "Home Assistant",
+  "main": "index.js",
+  "author": "Florian Kempenich <Flori@nKempenich.com>",
+  "license": "MIT",
+  "config": {
+    "serviceURL": "https://the-home.access.ly",
+    "hasNotificationSound": true
+  }
+}
